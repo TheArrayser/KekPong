@@ -1,0 +1,26 @@
+1 VERSIONINFO
+//#include "winver.h"
+
+FILEVERSION     6,0,0,1
+PRODUCTVERSION  6,0,0,1
+//FILEOS VOS_DOS
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "040904E4"
+    BEGIN
+      VALUE "CompanyName", "Cringe Studios"
+      VALUE "FileDescription", "Kek Pong"
+      VALUE "FileVersion", "6.0"
+      VALUE "InternalName", "kekpong"
+      VALUE "LegalCopyright", "All rights reserved"
+      VALUE "OriginalFilename", "KekPong.exe"
+      VALUE "ProductName", "KekPong"
+      VALUE "ProductVersion", "6.0"
+    END
+  END
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x409, 1252
+  END
+END
